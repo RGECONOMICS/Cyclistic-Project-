@@ -110,8 +110,8 @@ Let's run the same query, just replacing 'member' to 'casual' in the WHERE claus
 
 <table>
   <tr>
-    <td> <img src="member_month.png" alt="Member Daily Trips" width="400"> </td>  
-    <td> <img src="casual_trip_update.png" alt="Casual Daily Trips" width="400"> </td>  
+    <td> <img src="Charts/member_month.png" alt="Member Daily Trips" width="400"> </td>  
+    <td> <img src="Charts/casual_trip_update.png" alt="Casual Daily Trips" width="400"> </td>  
   </tr>
 </table>
     
