@@ -150,7 +150,7 @@ library(ggplot2)
 ---
 
  <table><tr>
-    <td> <img src="tempature_trip.png" alt="Temperature vs Number of Trips" width="300"> </td>  
+    <td> <img src="Charts/tempature_trip.png" alt="Temperature vs Number of Trips" width="300"> </td>  
     </tr></table>
     
 ---
@@ -257,8 +257,8 @@ Let's run the same query, just replacing 'member' to 'casual' in the WHERE claus
 ---
 
  <table><tr>
-    <td> <img src="prueba b.png" alt="Member Daily Trips" width="250"> </td>   
-    <td> <img src="casual_daily_update.png" alt="Casual Daily Trips" width="250"> </td>  
+    <td> <img src="Charts/prueba b.png" alt="Member Daily Trips" width="250"> </td>   
+    <td> <img src="Charts/casual_daily_update.png" alt="Casual Daily Trips" width="250"> </td>  
     </tr></table>
  
 ---
@@ -315,8 +315,8 @@ Let's run the same query, just replacing 'member' to 'casual' in the WHERE claus
 
 ---
 <table><tr>
-    <td> <img src="member_hour.png" alt="Member Daily Trips" width="400"> </td>   
-    <td> <img src="casual_hour.png" alt="Casual Daily Trips" width="400"> </td> 
+    <td> <img src="Charts/member_hour.png" alt="Member Daily Trips" width="400"> </td>   
+    <td> <img src="Charts/casual_hour.png" alt="Casual Daily Trips" width="400"> </td> 
     </tr></table>
     
 ---
@@ -389,8 +389,8 @@ Let's run the same query, just replacing 'member' to 'casual' in the WHERE claus
 ---
 
  <table><tr>
-    <td> <img src="member_bike.png" alt="Member Daily Trips" width="200"> </td>   
-    <td> <img src="casual_bike.png" alt="Casual Daily Trips" width="200"> </td>  
+    <td> <img src="Charts/member_bike.png" alt="Member Daily Trips" width="200"> </td>   
+    <td> <img src="Charts/casual_bike.png" alt="Casual Daily Trips" width="200"> </td>  
     </tr></table>
 
 ---
@@ -437,8 +437,8 @@ Let's run the same query, just replacing 'member' to 'casual' in the WHERE claus
 ---
 
  <table><tr>
-    <td> <img src="member_minutes.png" alt="Member Daily Trips" width="200"> </td>  
-    <td> <img src="casual_minutes.png" alt="Casual Daily Trips" width="200"> </td>  
+    <td> <img src="Charts/member_minutes.png" alt="Member Daily Trips" width="200"> </td>  
+    <td> <img src="Charts/casual_minutes.png" alt="Casual Daily Trips" width="200"> </td>  
     </tr></table>
     
 ---
